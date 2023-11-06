@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button {
+    border: none;
+    background: none;
+    outline: none;
+    cursor: pointer;
+    width: auto;
+    height: auto;
+    width: fit-content;
+}
+
+select {
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+}
+input {
+    all: unset;
+}
+a{
+    all: unset;
+    cursor: pointer;
+
+}
